@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.clashofclans.com
 common:
+  - type: DomainSecurity
+    url: security/clash-of-clans-domain-security.yml
   - type: Website
     url: https://developer.clashofclans.com
   - type: PublicAPIsListing
