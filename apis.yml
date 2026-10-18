@@ -40,7 +40,8 @@ apis:
   - name: Clash of Clans
     description: "Clash of Clans Game Information"
     humanURL: https://developer.clashofclans.com
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
